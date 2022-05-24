@@ -5,10 +5,10 @@
 <p align="center"> 
  
  <br>
-  <a href="mailto:artyomkropp@gmail.com">
+  <a href="mailto:e.samoylin@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://t.me/empty_head">
+  <a href="https://t.me/egorsamoylin">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a> 
 </p>
